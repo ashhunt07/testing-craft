@@ -1,0 +1,21 @@
+dateModified: 1616696606
+email:
+  fromEmail: ashleyhuntdesign@gmail.com
+  fromName: 'Testing Craft '
+  replyToEmail: ashleyhuntdesign@gmail.com
+  template: null
+  transportSettings:
+    command: ''
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: Testing
+  schemaVersion: 3.6.6
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

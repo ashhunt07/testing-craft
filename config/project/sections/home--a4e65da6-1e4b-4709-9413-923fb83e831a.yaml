@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  bf328d71-2ecf-4de6-b718-e9954a87bccc: # Testing
+    enabledByDefault: true
+    hasUrls: true
+    template: home
+    uriFormat: __home__
+type: single
