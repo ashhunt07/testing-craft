@@ -20,6 +20,7 @@ ____
 
 
 <br> 
+
 ____
 
 
@@ -32,6 +33,7 @@ Checkout the documentation to get up and running with Craft. This is a great ste
 
 
 <br> 
+
 ____
 
 
