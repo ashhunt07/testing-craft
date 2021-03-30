@@ -11,19 +11,18 @@ Here is the starter code if you want to build this craft site. [Get Started!](ht
 
 ____
 
-<br>
+
 
 ## You will also need
 
-[Docker](https://www.docker.com/)
+* [Docker](https://www.docker.com/)
+* [Nitro](https://getnitro.sh/)
 
-[Nitro](https://getnitro.sh/)
 
 <br> 
-
 ____
 
-<br>
+
 
 ## How to Get Up and Running with Craft
 
@@ -31,11 +30,11 @@ ____
 
 Checkout the documentation to get up and running with Craft. This is a great step-by-step guide on how to get started with  your first craft site. 
 
-<br> 
 
+<br> 
 ____
 
-<br>
+
 
 ## Additional Resources
 
