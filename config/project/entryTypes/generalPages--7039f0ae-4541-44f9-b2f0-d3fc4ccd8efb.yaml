@@ -1,5 +1,5 @@
 fieldLayouts:
-  b6d0f646-b0f8-40a5-bf71-6d57e38ccd48:
+  43f4ef01-5819-4a3e-ba5e-4cbb86bc6185:
     tabs:
       -
         elements:
@@ -23,18 +23,25 @@ fieldLayouts:
             step: null
             tip: null
             title: null
-            type: craft\fieldlayoutelements\AssetTitleField
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+          -
+            fieldUid: e27c661d-64a5-4dd2-b620-569ca8af7e15 # Rich Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 100
         name: Content
         sortOrder: 1
-handle: uploads
-hasUrls: true
-name: Uploads
-settings:
-  path: $ASSET_BASE_PATH
-sortOrder: 0
+handle: generalPages
+hasTitleField: true
+name: 'General Pages'
+section: c58af6fc-b4f1-48c1-b357-c64331cc0f40 # General Pages
+sortOrder: 1
+titleFormat: null
 titleTranslationKeyFormat: null
-titleTranslationMethod: null
-type: craft\volumes\Local
-url: $ASSETS_BASE_URL
+titleTranslationMethod: site

@@ -1,5 +1,5 @@
 fieldLayouts:
-  b6d0f646-b0f8-40a5-bf71-6d57e38ccd48:
+  fd471b24-a7ac-4d43-bae7-b06c14e5ba0d:
     tabs:
       -
         elements:
@@ -23,18 +23,16 @@ fieldLayouts:
             step: null
             tip: null
             title: null
-            type: craft\fieldlayoutelements\AssetTitleField
+            type: craft\fieldlayoutelements\EntryTitleField
             warning: null
             width: 100
         name: Content
         sortOrder: 1
-handle: uploads
-hasUrls: true
-name: Uploads
-settings:
-  path: $ASSET_BASE_PATH
-sortOrder: 0
+handle: storiesListing
+hasTitleField: true
+name: 'Stories Listing'
+section: c9b1afac-c984-43ae-b91d-ada9ffd4297d # Stories Listing
+sortOrder: 1
+titleFormat: '{section.name|raw}'
 titleTranslationKeyFormat: null
-titleTranslationMethod: null
-type: craft\volumes\Local
-url: $ASSETS_BASE_URL
+titleTranslationMethod: site

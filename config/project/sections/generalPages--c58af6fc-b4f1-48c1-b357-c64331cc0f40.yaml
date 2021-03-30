@@ -1,0 +1,14 @@
+enableVersioning: true
+handle: generalPages
+name: 'General Pages'
+propagationMethod: all
+siteSettings:
+  bf328d71-2ecf-4de6-b718-e9954a87bccc: # Motoventure
+    enabledByDefault: true
+    hasUrls: true
+    template: general
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: 2
+  uid: 64b7e79f-8339-401a-a57c-8e683fa8bcef
+type: structure

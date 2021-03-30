@@ -1,22 +1,22 @@
 contentColumnType: string
-fieldGroup: 5aeebec7-06ff-4d9a-be47-e6c8fce07fed # Home Page
-handle: heroImage
+fieldGroup: e1348357-5508-43b0-a30b-d2ec3cd06eba # Common
+handle: photos
 instructions: ''
-name: 'Hero Image'
+name: Photos
 searchable: false
 settings:
   allowSelfRelations: false
-  allowUploads: false
+  allowUploads: true
   allowedKinds:
     - image
   defaultUploadLocationSource: 'volume:17271997-9dab-40bb-9bb8-fbc557f7e075' # Uploads
   defaultUploadLocationSubpath: ''
-  limit: '1'
+  limit: ''
   localizeRelations: false
   previewMode: full
   restrictFiles: '1'
   selectionLabel: ''
-  showSiteMenu: true
+  showSiteMenu: false
   showUnpermittedFiles: false
   showUnpermittedVolumes: false
   singleUploadLocationSource: 'volume:17271997-9dab-40bb-9bb8-fbc557f7e075' # Uploads

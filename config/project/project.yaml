@@ -1,4 +1,4 @@
-dateModified: 1616696606
+dateModified: 1617133379
 email:
   fromEmail: ashleyhuntdesign@gmail.com
   fromName: 'Testing Craft '
@@ -7,6 +7,11 @@ email:
   transportSettings:
     command: ''
   transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: solo
   live: true

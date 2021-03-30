@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: e1348357-5508-43b0-a30b-d2ec3cd06eba # Common
+handle: shortDescription
+instructions: ''
+name: 'Short Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '3'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
